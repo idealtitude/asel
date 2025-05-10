@@ -1,3 +1,10 @@
+# Perso
+bin/*
+build/
+tmp/
+.vscode/
+asel.code-workspace
+
 # Prerequisites
 *.d
 
